@@ -67,6 +67,10 @@
 <details> 
  <summary>🤖 <b>My programming stats</b>: </summary>
 <br>
+	
+<div align="center">
+	<img src="https://github.com/achrusdi/achrusdi/blob/main/assets/gifs/connected.gif" alt="Raghav Khullar" width="350" height="200" />
+</div>
 
 
 <!--
