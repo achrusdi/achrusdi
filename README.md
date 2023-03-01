@@ -2,13 +2,7 @@
 	<img src="https://github.com/achrusdi/achrusdi/blob/main/assets/gifs/octo.gif" alt="GitHub Logo" width="150" height="150" />
 </div>
 
-### Hi there 👋
-
-<div align="center">
-	<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" />
-</div>
-
-<br>
+### Hi, I am Ach. Rusdi 👋
 
 <!-- start work project section -->
 <details>
@@ -73,13 +67,19 @@
 <p>
 	<a href="https://github.com/achrusdi" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 	<a href="https://www.linkedin.com/in/ach-rusdie" target="_blank"><img alt="Github" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-	
-<!-- 	<a href="https://www.linkedin.com/in/ach-rusdie" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  -->
 </p>
 	
 <div align="center">
 	<img src="https://github.com/achrusdi/achrusdi/blob/main/assets/gifs/connected.gif" alt="ndog" width="350" height="200" />
 </div>
+
+<br>
+
+<div align="center">
+	<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" />
+</div>
+
+<br>
 
 
 <!--
