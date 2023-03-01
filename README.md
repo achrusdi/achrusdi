@@ -8,7 +8,8 @@
 
 <!-- start work project section -->
 <details>
-<summary><b> My Work Project <img src="/flags/hd/indonesiaparrot.gif" class="lazy" data-src="/flags/hd/indonesiaparrot.gif" alt="Indonesia"> </b></summary>
+<summary><b> My Work Project</b></summary>
+<div><img src="/flags/hd/indonesiaparrot.gif" class="lazy" data-src="/flags/hd/indonesiaparrot.gif" alt="Indonesia"></div>
 <table>
   <thead>
     <tr>
