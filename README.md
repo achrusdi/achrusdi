@@ -65,7 +65,8 @@
 
 
 <details> 
- <summary>🤖 <b>My programming stats</b>: </summary>
+	<summary>🤖 <b>My programming stats</b>: </summary>
+</details> 
 <br>
 	
 <div align="center">
