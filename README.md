@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<div align="center">
+    <img height="300px" src="https://metrics.lecoq.io/holic-x?template=classic&config.timezone=Asia%2FShanghai"/>
+</div>
+
 <!--
 **achrusdi/achrusdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
