@@ -36,7 +36,7 @@
 <br>
 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/achrusdi"/>
+  <img src="https://render.gitanimals.org/farms/achrusdi" style="width: 100%;"/>
 </a>
 
 
